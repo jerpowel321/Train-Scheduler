@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(18, 95, 139);
+}
+
+#main_content {
+    width: 950px;
+}
+
+#employee-table th,
+    td {
+      display: inline-block;
+      width: 16.575%;
+    }
+
+.jumbotron{
+    color: black;
+    background-image: url("images/mountains.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+    text-shadow: 2px 2px 8px rgb(18, 95, 139);
+ 
+}
+
+h5 {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    margin-top: 10px;
+    padding-top: 50px;
+}
+
+button {
+    background-color: rgb(18, 95, 139);
+    color:white;
+    border-radius: 8px;
+  
+}
+
+.card-header {
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+.col-md-12 {
+    
+}
+
+.button:hover {background-color: #3e8e41}
+
+
+.card{
+border: 7px ridge rgb(115, 201, 230);
+}
+
+.card-header{
+    font-family: 'Righteous', cursive;
+    color: white;
+    text-shadow: 2px 2px 8px rgb(18, 95, 139);
+    font-size: 20px;
+}
+
+.card-body{
+    /*background-color: rgb(186, 223, 221);*/
+}
+
+label {
+    font-weight: bold;
+}
