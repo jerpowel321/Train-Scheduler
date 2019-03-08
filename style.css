@@ -6,10 +6,10 @@ body{
     width: 950px;
 }
 
-#employee-table th,
+#employee-table, th,
     td {
       display: inline-block;
-      width: 16.575%;
+      width: 20%;
     }
 
 .jumbotron{
@@ -63,6 +63,8 @@ border: 7px ridge rgb(115, 201, 230);
     /*background-color: rgb(186, 223, 221);*/
 }
 
-label {
+th, label {
     font-weight: bold;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
 }
